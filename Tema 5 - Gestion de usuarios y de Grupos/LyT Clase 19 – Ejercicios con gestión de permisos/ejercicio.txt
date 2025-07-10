@@ -1,0 +1,3 @@
+En esta clase, después de meter al usuario al grupo pepe, en la clase se cortó un trozo donde comento que los permisos se aplicarán una vez inicie sesión ese usuario de nuevo. 
+Los permisos de grupos se establecen y aplican al iniciar sesión, por lo que aunque metamos al usuario en el grupo, 
+los permisos de dicho grupo no serán funcionales hasta que iniciemos de nuevo la sesión. 
